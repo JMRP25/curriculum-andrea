@@ -1,0 +1,264 @@
+body{
+    margin: 5;
+    padding: 5;
+    background:#EBEBD3;
+}
+
+.nombre{
+    width: 100%;
+    height: 250px;
+    background: #3C3C3B;
+    border-radius: 10px;
+}
+
+.nombre .contenido{
+    width: 50%;
+    height: 50%;
+    position:absolute;
+    left: 30%;
+}
+
+.nombre .contenido .n-1{
+    color: #EBEBD3;
+    font-family: 'Rowdies', cursive;
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+.nombre .contenido .n-2{
+    color: #EBEBD3;
+    font-family: 'Rowdies', cursive;
+    font-size: 25px;
+}
+
+.nombre .img {
+    position:absolute;
+    top: 2%;
+    right: 80%;
+    width: 180px;
+    height: 180px;
+}
+
+.nombre .img img {
+    width: 182px;
+    height: 227px;
+}
+
+.Información{
+    width: 85%;
+    height: 30px;
+    background: #BFC0C0;
+    margin:1% auto;
+    padding: 35px;
+    left: 10%;
+    border-radius: 10px;
+}
+
+.Información .Titulo{
+    color: #000000;
+    font-family: 'Chivo Mono', monospace;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 20px;
+    border-bottom: 1px #ffffff dashed;
+}
+
+.Información .NYP{
+    color: #03071a;
+    font-family: 'Rowdies', cursive;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+}
+
+.Información .NA{
+    color: #06295e7c;
+    font-family: 'Rowdies', cursive;
+    font-weight: normal;
+    font-size: large;
+    display: inline;
+}
+
+.Perfil{
+    width: 88%;
+    height: auto;
+    background: #BFC0C0;
+    margin:20% auto;
+    padding: 45px;
+    border-radius: 10px;
+}
+
+.Perfil .Titulo{
+    color: #000000;
+    font-family: 'Chivo Mono', monospace;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 20px;
+    border-bottom: 1px #ffffff dashed;
+}
+
+.Perfil .P1{
+    color: #4F5D75;
+    font-family: 'Rowdies', cursive;
+    font-weight: normal;
+    font-size: 25PX;
+    text-align: justify;
+}
+
+.Perfil .P2{
+    color: #2D3142;
+    font-family: 'Rowdies', cursive;
+    font-weight: normal;
+    font-size: 20PX;
+    text-align: justify;
+}
+
+.FORACA{
+    width: 85%;
+    height: auto;
+    background: #BFC0C0;
+    margin: -15% auto;
+    padding: 55px;
+    left: 10%;
+    border-radius: 10px;
+}
+
+.FORACA .Titulo{
+    color: #000000;
+    font-family: 'Chivo Mono', monospace;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 20px;
+    border-bottom: 1px #ffffff dashed;
+}
+
+.FORACA .COL{
+    color: #03071a;
+    font-family: 'Bitter', serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+}
+
+.FORACA .ED{
+    color: #06295e7c;
+    font-family: 'Rowdies', cursive;
+    font-weight: normal;
+    font-size: large;
+    display: inline;
+}
+
+.FORACA .AÑO{
+    color: #1C3041;
+    font-family: 'Rowdies', cursive;
+    font-weight: normal;
+    font-size: small;
+    display: inline;
+}
+
+.Conocimientos{
+    width: 85%;
+    height: auto;
+    background:#C1BFB5;
+    margin: 20% auto;
+    padding: 55px;
+    left: 10%;
+    border-radius: 10px;
+}
+
+.Conocimientos .Titulo{
+    color: #000000;
+    font-family: 'Chivo Mono', monospace;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 20px;
+    border-bottom: 1px #ffffff dashed;
+}
+
+.Conocimientos .C1{
+    color: #03071a;
+    font-family: 'Bitter', serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+}
+
+.Idiomas{
+    width: 40%;
+    height: auto;
+    float: right;
+    background:#C1BFB5;
+    margin: -15% auto;
+    top: 10%;
+    padding: 55px;
+    left: 10%;
+    border-radius: 10px;
+}
+
+.Idiomas .Titulo{
+    color: #000000;
+    font-family: 'Chivo Mono', monospace;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 20px;
+    border-bottom: 1px #ffffff dashed;
+}
+
+.Idiomas .l1{
+    color: #03071a;
+    font-family: 'Bitter', serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+}
+.Idiomas .l2{
+    color: #03071a;
+    font-family: 'Bitter', serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    text-align:right;
+}
+
+.APYHA{
+    width: 40%;
+    height: auto;
+    float: left;
+    background:#C1BFB5;
+    margin: -15% auto;
+    top: 10%;
+    padding: 55px;
+    left: 10%;
+    border-radius: 10px;
+}
+
+.APYHA .Titulo{
+    color: #000000;
+    font-family: 'Chivo Mono', monospace;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 20px;
+    border-bottom: 1px #ffffff dashed;
+}
+
+.APYHA .C1{
+    color: #03071a;
+    font-family: 'Bitter', serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+}
+.APYHA .C2{
+    color: #03071a;
+    font-family: 'Bitter', serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    text-align:right;
+}
